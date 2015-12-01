@@ -1,3 +1,2 @@
 <?php
-
-echo "New file";
+echo "this is test file";
