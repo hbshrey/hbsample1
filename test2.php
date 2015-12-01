@@ -26,3 +26,4 @@ function getRandomNumber($len = "15")
     $t2=time();
     echo $t2-$t1;
     echo "<pre>";print_r($codes1);
+    echo "<pre>";print_r($codes2);
